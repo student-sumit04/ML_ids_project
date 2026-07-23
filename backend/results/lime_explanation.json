@@ -1,0 +1,42 @@
+[
+    {
+        "feature": "RST Flag Cnt <= -0.52",
+        "impact": -0.00018568996830080117
+    },
+    {
+        "feature": "URG Flag Cnt <= -0.21",
+        "impact": -1.9416401948528137e-05
+    },
+    {
+        "feature": "-0.15 < Flow Pkts/s <= -0.13",
+        "impact": -1.1035433857701457e-05
+    },
+    {
+        "feature": "Fwd URG Flags <= -0.03",
+        "impact": -4.717539069209362e-06
+    },
+    {
+        "feature": "CWE Flag Count <= -0.03",
+        "impact": 4.1780744123157135e-06
+    },
+    {
+        "feature": "PSH Flag Cnt <= -0.87",
+        "impact": -2.830091961788827e-06
+    },
+    {
+        "feature": "Bwd IAT Min <= -0.07",
+        "impact": -2.7693420524412232e-06
+    },
+    {
+        "feature": "Idle Std <= -0.00",
+        "impact": -2.1109892555773667e-06
+    },
+    {
+        "feature": "Bwd IAT Tot <= -0.31",
+        "impact": 2.0842445418745255e-06
+    },
+    {
+        "feature": "SYN Flag Cnt <= -0.21",
+        "impact": 1.9427179347926688e-06
+    }
+]

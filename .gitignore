@@ -1,0 +1,14 @@
+node_modules/
+node_modules_broken_next_backup/
+.next/
+out/
+dist/
+__pycache__/
+.venv/
+.env
+*.pyc
+source-archives/
+backend/models/*.pkl
+backend/models/*.pkl.bak-*
+backend/results/*.png
+next-swc-*.tgz

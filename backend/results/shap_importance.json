@@ -1,0 +1,82 @@
+[
+    {
+        "feature":"Dst Port",
+        "importance":0.8952611685
+    },
+    {
+        "feature":"Init Fwd Win Byts",
+        "importance":0.759335041
+    },
+    {
+        "feature":"Fwd Seg Size Min",
+        "importance":0.7087475061
+    },
+    {
+        "feature":"Bwd Pkts\/s",
+        "importance":0.326302439
+    },
+    {
+        "feature":"Flow IAT Min",
+        "importance":0.2803578377
+    },
+    {
+        "feature":"Flow Duration",
+        "importance":0.2377144396
+    },
+    {
+        "feature":"Fwd IAT Min",
+        "importance":0.2131229043
+    },
+    {
+        "feature":"Fwd Pkts\/s",
+        "importance":0.1809946001
+    },
+    {
+        "feature":"Tot Bwd Pkts",
+        "importance":0.1555038095
+    },
+    {
+        "feature":"Flow IAT Max",
+        "importance":0.1162603945
+    },
+    {
+        "feature":"Flow Pkts\/s",
+        "importance":0.1104928926
+    },
+    {
+        "feature":"Bwd Pkt Len Std",
+        "importance":0.0980356336
+    },
+    {
+        "feature":"Pkt Size Avg",
+        "importance":0.0939173698
+    },
+    {
+        "feature":"Flow Byts\/s",
+        "importance":0.0916566849
+    },
+    {
+        "feature":"Fwd IAT Tot",
+        "importance":0.0878082365
+    },
+    {
+        "feature":"Fwd Act Data Pkts",
+        "importance":0.0845503509
+    },
+    {
+        "feature":"Fwd Pkt Len Mean",
+        "importance":0.0821364671
+    },
+    {
+        "feature":"Flow IAT Mean",
+        "importance":0.079586342
+    },
+    {
+        "feature":"Fwd Pkt Len Max",
+        "importance":0.0789247081
+    },
+    {
+        "feature":"Init Bwd Win Byts",
+        "importance":0.0774120912
+    }
+]
