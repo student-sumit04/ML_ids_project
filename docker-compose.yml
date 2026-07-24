@@ -4,7 +4,7 @@ services:
     ports:
       - "8000:8000"
     environment:
-      IDS_ENABLE_RF: "1"
+      IDS_ENABLE_RF: "0"
   frontend:
     image: node:22-alpine
     working_dir: /app

@@ -9,6 +9,12 @@ __pycache__/
 *.pyc
 source-archives/
 backend/models/*.pkl
+!backend/models/features.pkl
+!backend/models/isolation.pkl
+!backend/models/label_encoder.pkl
+!backend/models/scaler.pkl
+!backend/models/xgboost.pkl
+backend/models/random_forest.pkl
 backend/models/*.pkl.bak-*
 backend/results/*.png
 next-swc-*.tgz

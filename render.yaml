@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: explainable-ai-ids-backend
+    runtime: docker
+    rootDir: backend
+    plan: starter
+    healthCheckPath: /health
+    envVars:
+      - key: IDS_ENABLE_RF
+        value: "0"
+      - key: IDS_CORS_ORIGINS
+        value: "http://localhost:3000,http://127.0.0.1:3000"
