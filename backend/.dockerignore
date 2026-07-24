@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+random_forest.pkl
+models/random_forest.pkl
+models/*.pkl.bak-*
